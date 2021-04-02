@@ -1,1 +1,1 @@
-# Smartcontract
+#YourDoge Solidity Code
